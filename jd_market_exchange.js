@@ -6,7 +6,7 @@
           jd_market_notify  // 是否推送通知，默认不推送
           jd_market_pinFilter // 账号pin过滤，多个pin用@分隔，默认不过滤
 
-cron:1 1 1 1 *
+cron:1 0 * * *
 
 */
 
