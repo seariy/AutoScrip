@@ -8,7 +8,7 @@
 ============Quantumultx===============
 [task_local]
 #京东快递签到
-23 4 * * *  jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png, enabled=true
+55 0 * * *  jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png, enabled=true
 ================Loon==============
 [Script]
 cron "23 4 * * * " script-path=jd_kd.js, tag=京东快递签到
