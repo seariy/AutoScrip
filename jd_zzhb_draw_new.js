@@ -1,7 +1,7 @@
 
 /*
 转赚红包,只抽奖提现
-14 15 * * * https://raw.githubusercontent.com/6dylan6/jdpro/main/jd_zzhb_draw_new.js
+46 0 * * * https://raw.githubusercontent.com/6dylan6/jdpro/main/jd_zzhb_draw_new.js
  */
 
 const $ = new Env('Jd转赚红包_抽奖提现2');
