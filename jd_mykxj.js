@@ -1,5 +1,5 @@
 /*
-1 1 1 1 * jd_mykxj.js
+4 1 * * * jd_mykxj.js
 */
 
 const $ = new Env('母婴开学季');
