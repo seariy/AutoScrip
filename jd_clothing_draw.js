@@ -1,7 +1,7 @@
 /*
 服装抽奖
 
-cron "1 1 1 1 *" script-path=jd_clothing_draw.js, tag=服装抽奖
+cron "42 0 * * *" script-path=jd_clothing_draw.js, tag=服装抽奖
 
  */
 const $ = new Env('服装抽奖')
