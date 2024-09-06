@@ -1,5 +1,5 @@
 /*
-22 10  * * * jd_zwb.js
+8 1 * * * jd_zwb.js
 */
 
 const $ = new Env('做任务赚汪贝');
