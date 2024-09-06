@@ -1,5 +1,5 @@
 /*
-45 0,14 * * * jd_mssign.js
+56 0 * * * jd_mssign.js
 */
 
 const $ = new Env('秒送签到');
