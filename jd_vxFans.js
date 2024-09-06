@@ -1,5 +1,5 @@
 /*
-40 9 * * * jd_vxFans.js
+40 0 * * * jd_vxFans.js
 */
 
 const $ = new Env('公众号粉丝福利');
