@@ -3,7 +3,7 @@
 
 [task_local]
 #京东快递领卷
-5 10 * * * jd_jdkdcoupon.js, tag=京东快递领卷, enabled=true
+9 1 * * * jd_jdkdcoupon.js, tag=京东快递领卷, enabled=true
 
 */
 
