@@ -1,5 +1,5 @@
 /*
-23 4,11 * * * jd_wanyiwan.js
+23 4 * * * jd_wanyiwan.js
 */
 
 const $ = new Env('新版玩一玩');
